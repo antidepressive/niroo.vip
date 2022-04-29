@@ -1,0 +1,1 @@
+document.getElementById("TARGET").onselectstart = function () { return false; }
